@@ -1,6 +1,6 @@
 # 3D Sin Games
 
-<img src="3DSinGames.png"> width="500">
+<img src="3DSinGames.png" width="500">
 
 ## About
 
